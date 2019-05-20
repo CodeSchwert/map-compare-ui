@@ -1,0 +1,504 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 34
+      },
+      "geometry": {
+        "coordinates": [-106.375532, 36.243802],
+        "type": "Point"
+      },
+      "id": "039a7c4402ed79992cee928ee328f86d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 18
+      },
+      "geometry": {
+        "coordinates": [-106.355567, 36.232867],
+        "type": "Point"
+      },
+      "id": "0498f4c8c9233b60734c793a1dee400e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 17
+      },
+      "geometry": {
+        "coordinates": [-106.354127, 36.232101],
+        "type": "Point"
+      },
+      "id": "08c65bf9df49f627b99f4a0a577bcd9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 0
+      },
+      "geometry": {
+        "coordinates": [-106.332906, 36.220635],
+        "type": "Point"
+      },
+      "id": "10350e12357d8e56dc565fecff94d5ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 9
+      },
+      "geometry": {
+        "coordinates": [-106.343707, 36.226513],
+        "type": "Point"
+      },
+      "id": "15adfcd0353c35e6bfe6a30a631da1e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 19
+      },
+      "geometry": {
+        "coordinates": [-106.356573, 36.233482],
+        "type": "Point"
+      },
+      "id": "185c5a944005754d956e4bbfa9db51c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 23
+      },
+      "geometry": {
+        "coordinates": [-106.36176, 36.23622],
+        "type": "Point"
+      },
+      "id": "1decd719b1f21c4c8aa25e61406e0a84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 13
+      },
+      "geometry": {
+        "coordinates": [-106.348976, 36.229414],
+        "type": "Point"
+      },
+      "id": "2af9c623cbb74d16121fa2c90e619cad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 29
+      },
+      "geometry": {
+        "coordinates": [-106.368113, 36.239843],
+        "type": "Point"
+      },
+      "id": "33c284d1460cfa4d56d509ca19b3f5d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 24
+      },
+      "geometry": {
+        "coordinates": [-106.362858, 36.236922],
+        "type": "Point"
+      },
+      "id": "38894fb618f71aa2a41f15c6062dc29b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 28
+      },
+      "geometry": {
+        "coordinates": [-106.366934, 36.239081],
+        "type": "Point"
+      },
+      "id": "3e79750731d68bd6d454c7ed63a2186c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 30
+      },
+      "geometry": {
+        "coordinates": [-106.369579, 36.240561],
+        "type": "Point"
+      },
+      "id": "4ab0e7499d4947ec418c198796aff52a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 20
+      },
+      "geometry": {
+        "coordinates": [-106.357644, 36.234099],
+        "type": "Point"
+      },
+      "id": "576d4c023b41b94162afc1508c9215a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 22
+      },
+      "geometry": {
+        "coordinates": [-106.360556, 36.2357],
+        "type": "Point"
+      },
+      "id": "58d21b1c13a6713b8cb90622ac02c773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 10
+      },
+      "geometry": {
+        "coordinates": [-106.34517, 36.227359],
+        "type": "Point"
+      },
+      "id": "63a5e6ddc8775870ce78176bfe3f0176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 33
+      },
+      "geometry": {
+        "coordinates": [-106.373861, 36.242974],
+        "type": "Point"
+      },
+      "id": "6d7333489ec1efe15cfb3a892277bc9c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 15
+      },
+      "geometry": {
+        "coordinates": [-106.351388, 36.230677],
+        "type": "Point"
+      },
+      "id": "7bb4a5b679ba0cfcf37be84871c7b7dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 6
+      },
+      "geometry": {
+        "coordinates": [-106.339711, 36.224388],
+        "type": "Point"
+      },
+      "id": "7f3baecedae454479fa40175ea349691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 11
+      },
+      "geometry": {
+        "coordinates": [-106.346393, 36.228108],
+        "type": "Point"
+      },
+      "id": "8135c518f3721c7da6843a9b3367ce79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 2
+      },
+      "geometry": {
+        "coordinates": [-106.335099, 36.221943],
+        "type": "Point"
+      },
+      "id": "844c4c04abc37b220d73b40ab20af0fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [[-106.375715, 36.243967], [-106.331557, 36.219984]],
+        "type": "LineString"
+      },
+      "id": "87b90d6f65dea08610295db29a17f6fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 16
+      },
+      "geometry": {
+        "coordinates": [-106.352447, 36.231387],
+        "type": "Point"
+      },
+      "id": "8b958d5766a9959532c675cf2829961a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 3
+      },
+      "geometry": {
+        "coordinates": [-106.336112, 36.222478],
+        "type": "Point"
+      },
+      "id": "8c31faa8039ca7e797b109a794343356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 7
+      },
+      "geometry": {
+        "coordinates": [-106.340794, 36.225126],
+        "type": "Point"
+      },
+      "id": "97e5d1c470157deab7168e4996af777f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 25
+      },
+      "geometry": {
+        "coordinates": [-106.363972, 36.237568],
+        "type": "Point"
+      },
+      "id": "9b518f8492aaffd886e915d74eceb627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 21
+      },
+      "geometry": {
+        "coordinates": [-106.358842, 36.234666],
+        "type": "Point"
+      },
+      "id": "a36e3ca2db31e62141f99ad3bd8d2388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 14
+      },
+      "geometry": {
+        "coordinates": [-106.350212, 36.23012],
+        "type": "Point"
+      },
+      "id": "af4c0db9e619b93297249790f829fe02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 26
+      },
+      "geometry": {
+        "coordinates": [-106.364954, 36.238039],
+        "type": "Point"
+      },
+      "id": "b4ecaeee61d9af41237476568c6e818f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 4
+      },
+      "geometry": {
+        "coordinates": [-106.337369, 36.223113],
+        "type": "Point"
+      },
+      "id": "c1246858c064b4ff9b2f8a10b5bf7733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 31
+      },
+      "geometry": {
+        "coordinates": [-106.370749, 36.241041],
+        "type": "Point"
+      },
+      "id": "c88c8c9bc3f7e83d129f4c09c178bc65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 1
+      },
+      "geometry": {
+        "coordinates": [-106.334091, 36.221312],
+        "type": "Point"
+      },
+      "id": "ca407f6faff467e04242d28b26a02860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 32
+      },
+      "geometry": {
+        "coordinates": [-106.372247, 36.242053],
+        "type": "Point"
+      },
+      "id": "d0bd2a662d7de0c6e763c1e46755a672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 5
+      },
+      "geometry": {
+        "coordinates": [-106.338629, 36.22375],
+        "type": "Point"
+      },
+      "id": "d8346beb1df606fe5b1242c8c16da7f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 12
+      },
+      "geometry": {
+        "coordinates": [-106.347805, 36.228761],
+        "type": "Point"
+      },
+      "id": "da037feea29b48dfa2b174571c95c942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 27
+      },
+      "geometry": {
+        "coordinates": [-106.366056, 36.23856],
+        "type": "Point"
+      },
+      "id": "df66f772490499e502ab4865bbf5510c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": 1537477263,
+        "img1": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+1",
+        "img2": "https://dummyimage.com/600x400/000/fff.jpg&text=Image+2",
+        "id": 8
+      },
+      "geometry": {
+        "coordinates": [-106.34237, 36.225868],
+        "type": "Point"
+      },
+      "id": "e1dfa579604bffee146debb0025ab88a"
+    }
+  ],
+  "type": "FeatureCollection"
+}

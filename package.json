@@ -1,0 +1,72 @@
+{
+  "name": "map-compare-ui",
+  "version": "1.0.0",
+  "description": "React application for the `map-compare` stack.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "build:dev": "webpack --mode development --progress --profile --colors",
+    "build:prod": "webpack --mode production --progress --profile --colors",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CodeSchwert/map-compare-ui.git"
+  },
+  "keywords": [],
+  "author": "CodeSchwert and contributors",
+  "license": "SEE LICENSE IN LICENSE",
+  "babel": {
+    "presets": [
+      "env",
+      "react",
+      "stage-2"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "7.1.5",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "copy-webpack-plugin": "4.6.0",
+    "enzyme": "3.7.0",
+    "enzyme-adapter-react-16": "1.6.0",
+    "file-loader": "2.0.0",
+    "jest": "23.6.0",
+    "react-hot-loader": "4.6.3",
+    "transform-loader": "0.2.4",
+    "url-loader": "1.1.2",
+    "webpack": "4.28.4",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.14"
+  },
+  "dependencies": {
+    "@material-ui/core": "3.2.2",
+    "@material-ui/icons": "3.0.1",
+    "@material-ui/lab": "3.0.0-alpha.21",
+    "axios": "0.18.0",
+    "css-loader": "1.0.0",
+    "dotenv-webpack": "^1.7.0",
+    "leaflet": "1.4.0",
+    "mapbox-gl": "0.48.0",
+    "react": "16.7.0",
+    "react-compare-image": "0.7.0",
+    "react-compose": "2.0.0",
+    "react-dom": "16.7.0",
+    "react-mapbox-gl": "4.1.0",
+    "recompose": "0.30.0",
+    "style-loader": "0.23.1"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./src/client/Test/setupTests.js",
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/assetsTransformer.js",
+      "\\.(css|less)$": "<rootDir>/assetsTransformer.js"
+    }
+  }
+}
