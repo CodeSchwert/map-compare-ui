@@ -1,12 +1,12 @@
-# base image
 FROM node:10
 
-WORKDIR /usr/src/app/
+WORKDIR /opt/map-compare-ui
 
-COPY . . 
+COPY . .
+COPY ./dist ./public
 
 RUN npm install
 
-EXPOSE 5000
+EXPOSE 8081
 
-CMD ["npm", "start"]
+CMD ["npm", "run", "http"]

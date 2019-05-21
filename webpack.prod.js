@@ -53,12 +53,12 @@ module.exports = {
       uglifyOptions: {
         // beautify: true,
         compress: {
-          dead_code: true,
+          // dead_code: true,
           drop_debugger: true,
           conditionals: true,
           comparisons: true,
           booleans: true,
-          unused: true,
+          // unused: true,
           toplevel: true,
           if_return: true,
           join_vars: true,

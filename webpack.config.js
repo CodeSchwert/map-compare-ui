@@ -56,13 +56,6 @@ module.exports = {
       aggregateTimeout: 300,
       poll: 1000,
       ignored: /node_modules/
-    },
-    // proxy: {
-    //   '/images': {
-    //     target: 'http://localhost:8080',
-    //     secure: false,
-    //     changeOrigin: true
-    //   }
-    // }
+    }
   }
 };
