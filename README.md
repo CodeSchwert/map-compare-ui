@@ -6,7 +6,7 @@
 # run the app in a docker container
 git clone https://github.com/CodeSchwert/map-compare-ui.git
 cd map-compare-ui
-npm run docker:up
+docker-compose up -d
 ```
 
 The app should be viewable in a web browser on `localhost:8081`
