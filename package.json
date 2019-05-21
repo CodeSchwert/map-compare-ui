@@ -14,7 +14,6 @@
     "build:prod": "webpack --mode production --progress --profile --colors",
     "docker:build": "docker build -t map-compare-ui .",
     "docker:start": "docker run --name map-compare-ui --rm -p 8081:8081 -d map-compare-ui",
-    "docker:up": "npm run build:prod && npm run docker:build && npm run docker:start",
     "dist:cleanup": "rm -rf dist/*",
     "test": "jest"
   },
