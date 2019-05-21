@@ -3,70 +3,13 @@
 ## TL;DR
 
 ```shell
-# build and start the Docker container
-MAP_UI_VERSION=$(node -e "console.log(require('./package.json').version)")
-docker build -t map-compare/map-compare-ui:$MAP_UI_VERSION .
-docker run -d -p 5000:5000 --name map-compare-ui map-compare/map-compare-ui:$MAP_UI_VERSION
-# open browser (on MacOS)
-open -a "Google Chrome" http://localhost:5000
+# run the app in a docker container
+git clone https://github.com/CodeSchwert/map-compare-ui.git
+cd map-compare-ui
+npm run docker:up
 ```
 
-# Old Instructions ...
-
-> :warning: Docker instruction below are likely unnecessary and will be updated soon. :warning:
-
-## Installation
-
-**[Docker](https://www.docker.com/) or [Node.js](https://nodejs.org/en/) is required**
-
-**Setup For Testing**
-
-- To build project for testing purposes only, only the `docker build` and `docker run` need to be executed.
-
-In Desired Directory:
-
-```
-git clone https://github.com/CodeSchwert/map-compare-ui.git`
-
-cd map-compare-ui/docker
-
-./build.sh
-
-docker run -p 5000:5000 map-compare-ui
-```
-
-- Delta will be accessible through [localhost:5000](localhost:5000)
-
-**Setup For Development**
-
-- For development purposes, the local directory is mounted to the docker container in order to enable live changes, and hot module replacement in local directory to be reflected in the docker container.
-- Mounting a directory using the `-v` flag in docker results in the storage in the docker container being overwritten, so `node_modules` must be installed either in the cloned directory, or in the docker container.
-
-```
-git clone https://github.com/CodeSchwert/map-compare-ui.git`
-
-cd docker
-
-./build.sh
-
-./run_dev.sh
-```
-
-Then Within Docker Container:
-
-```
-npm install
-
-npm start
-```
-
-- Delta will be accessible through [localhost:5000](localhost:5000)
-
-### Building For Production
-
-- to build an uglified, minified `bundle.js` for use in production run
-  `npm build:prod` in repo directory, the `bundle.js` will be located in `dist/`
-- For docker setups, it is recommended to setup docker for development before building for production, as the output `bundle.js` will be in container storage if local directory is not mounted as a volume for the docker container.
+The app should be viewable in a web browser on `localhost:8081`
 
 ### Testing Using Jest
 
