@@ -1,4 +1,4 @@
-version: "3.6"
+version: "3.7"
 
 services:
   map-compare-ui:
@@ -7,3 +7,10 @@ services:
     ports: 
       - "8081:8081"
     container_name: "map-compare-ui"
+    networks: 
+      - mapui
+
+networks: 
+  mapui:
+    name: map-compare-ui
+    driver: bridge
