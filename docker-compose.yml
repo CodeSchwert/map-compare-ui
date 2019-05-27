@@ -1,9 +1,9 @@
-version: "3.7"
+version: "3.6"
 
 services:
   map-compare-ui:
     build: .
-    image: map-compare-ui:latest
+    image: map-compare/map-compare-ui:latest
     ports: 
       - "8081:8081"
     container_name: "map-compare-ui"
